@@ -1,0 +1,17 @@
+{
+  "name": "lr9",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "moron",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "node src/index.ts"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
